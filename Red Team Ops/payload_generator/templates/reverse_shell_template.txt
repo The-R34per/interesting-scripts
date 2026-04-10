@@ -1,0 +1,13 @@
+# Reverse Shell Template (Competition-Safe)
+# Replace with your own logic as needed.
+
+Target Host: {{HOST}}
+Target Port: {{PORT}}
+
+# Example structure:
+# 1. Connect to target
+# 2. Send initial handshake
+# 3. Trigger callback mechanism
+# 4. Handle response loop
+
+# NOTE: This is a placeholder for your own safe logic.

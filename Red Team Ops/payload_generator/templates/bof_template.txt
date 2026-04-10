@@ -1,0 +1,9 @@
+# Buffer Overflow Payload Template (Competition-Safe)
+
+OFFSET = <insert offset>
+RET_ADDR = <insert return address>
+
+payload = b"A" * OFFSET
+payload += RET_ADDR
+
+# Add additional structure as needed.
